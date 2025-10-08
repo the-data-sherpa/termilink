@@ -18,8 +18,8 @@ A powerful CLI tool for taking notes in your terminal and seamlessly appending t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/termiLink.git
-cd termiLink
+git clone git@github.com:the-data-sherpa/termilink.git
+cd termilink
 
 # Install dependencies
 pip install -r requirements.txt
@@ -224,8 +224,8 @@ tl add "New blog post idea" --tag ideas --tag blog
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/termiLink.git
-cd termiLink
+git clone git@github.com:the-data-sherpa/termilink.git
+cd termilink
 
 # Create virtual environment
 python -m venv venv
