@@ -1,4 +1,4 @@
-# termiLink
+# termilink
 
 A powerful CLI tool for taking notes in your terminal and seamlessly appending them to your Obsidian vault.
 
