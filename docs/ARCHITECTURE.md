@@ -240,11 +240,8 @@ The architecture is designed for future enhancements:
 
 ### v0.3.0
 - Plugin architecture
-- Cloud sync
-- Mobile companion app
 
 ### v1.0.0
-- AI-powered features
 - Multi-vault support
 - Team collaboration features
 
