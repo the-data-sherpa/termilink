@@ -1,0 +1,11 @@
+# Example termiLink configuration file
+# Copy this to ~/.termilink.yaml and customize for your setup
+
+vault_path: /Users/yourusername/Documents/ObsidianVault
+daily_notes_path: Daily Notes
+daily_note_format: "%Y-%m-%d"
+default_format: timestamp  # Options: plain, timestamp, bullet, task
+include_timestamp: true
+timestamp_format: "%H:%M"
+append_newline: true
+
